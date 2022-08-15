@@ -53,6 +53,8 @@ Obs: atente-se de ter escolhido o conjunto inteiro e não apenas um bloco. Visto
 ![image](https://user-images.githubusercontent.com/85958775/184733463-8de5d1cc-48ec-4e32-8652-3cc1dc47acc7.png)
 Escolhendo um bloco do conjunto, você pode começar a desenhar o mapa. Faça o seu mapa e explore as funcionalidades do tiledmap.
 
+IMPORTANTE: Separe o mapa por camadas. Coisas que estão no chão em uma , coisas que estão flutuando em outra. Sempre tenha em mente que precisamos fazer as colisões.
+
 #### Renderização do mapa
 
 Ao salvar o mapa, você terá um arquivo .tmx onde terá que colocar ele em assets do seu projeto da libgdx e também fazer os imports necessários do tiledmap.
