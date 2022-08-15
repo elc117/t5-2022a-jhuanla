@@ -28,9 +28,13 @@ Alguns exemplos de orientação(modo que você vê o jogo):
 Horizontal: Mario Bross, Sonic
 Isométrico: Age of Empires, Diablo
 
-Para metódos de aprendizado, deixaremos tudo como padrao(menos a orientação que será de sua escolha)
+Para metódos de aprendizado, deixaremos tudo como padrao(menos a orientação que será de sua escolha).
+
+Após isso você vai se deparar com esta tela.
 
 ![image](https://user-images.githubusercontent.com/85958775/184731650-8639454f-ae97-408e-88b2-ed76b9592b5e.png)
+
+Para prosseguirmos, usaremos tilesets para fazer o mapa, que seria mais ou menos como um conjunto de blocos prontos que você tem a total liberdade de "desenhar" o mapa do jeito que quiser. Escolha neste site o [tilesets](https://terminalroot.com.br/2022/04/baixe-de-graca-5-tilesets-para-seus-games.html) ou procure um de sua preferência.
 
 
 
