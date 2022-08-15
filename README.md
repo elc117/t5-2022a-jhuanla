@@ -19,6 +19,16 @@ Quando for criar o projeto na libGDX, lembre de ativar a opção de extensão Bo
 
 ![image](https://user-images.githubusercontent.com/85958775/184734605-86e121c7-240b-4c31-aa35-367c0cceb728.png)
 
+### Música
+Começando pelo mais simples. Importaremos essas duas bibliotecas, uma vai acessar a música e a outra dará o play.
+![image](https://user-images.githubusercontent.com/85958775/184747113-58b3ad42-8aac-4f83-9c03-4b6ca31f2644.png)
+
+Temos que declarar o objeto que vai acessar a música.
+
+![image](https://user-images.githubusercontent.com/85958775/184749511-443115cd-fdcb-4238-b9f8-48829abd3367.png)
+
+
+Em seguida, o instânciamos e carregamos ele(não demos play ainda).
 
 ### TiledMap
 Todo jogo você geralmente inicia tendo um mapa em mente, mas como fazer um mapa do zero? quais ferramentas ultilizar? Apresentarei uma ferramenta chamada [TiledMap](https://www.mapeditor.org/), onde irá facilitar a criação do seu jogo. Leve em consideração que haverá outras ferramentas que irão se comunicar com o [TiledMap](https://www.mapeditor.org/).
@@ -74,6 +84,8 @@ renderer será nosso objeto renderizador, ele irá renderizar nosso mapa na tela
 E então renderizamos o renderer na classe render().
 
 ![image](https://user-images.githubusercontent.com/85958775/184741531-d1b627f3-bc17-42a6-9bf1-16a6f9c0397e.png)
+
+
 
 
 
