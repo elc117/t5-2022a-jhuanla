@@ -14,4 +14,7 @@ Ao decorrer desta disciplina você com certeza teve contato com a biblioteca lib
 
 ## Começando
 Usarei o [T4](https://github.com/elc117/t4-2022a-jhuanl-e-eduardof) para demonstrar alguns exemplos nas ultilizações.
+Todo jogo você geralmente inicia tendo um mapa em mente, mas como fazer um mapa do zero? quais ferramentas ultilizar? Apresentarei uma ferramenta chamada TiledMap, onde irá facilitar a criação do seu jogo. Leve em consideração que haverá outras ferramentas que irão se comunicar com o TiledMap.
+
+
 
