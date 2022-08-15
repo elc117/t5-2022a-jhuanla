@@ -22,6 +22,14 @@ Após baixar e executar o [TiledMap](https://www.mapeditor.org/) você irá se d
 
 onde você iniciará seu projeto. Clicaremos em Novo Mapa.
 
+![image](https://user-images.githubusercontent.com/85958775/184728876-57cd60f4-e9b2-408a-b883-5fd318861351.png)
+
+Alguns exemplos de orientação(modo que você vê o jogo):
+Horizontal: Mario Bross, Sonic
+Isométrico: Age of Empires, Diablo
+
+Para metódos de aprendizado, deixaremos tudo como padrao(menos a orientação que será de sua escolha)
+
 
 
 
