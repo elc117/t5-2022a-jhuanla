@@ -13,5 +13,5 @@ Ao decorrer desta disciplina você com certeza teve contato com a biblioteca lib
 
 
 ## Começando
-usarei o [T4](https://github.com/elc117/t4-2022a-jhuanl-e-eduardof) para demonstrar alguns exemplos nas ultilizações.
+Usarei o [T4](https://github.com/elc117/t4-2022a-jhuanl-e-eduardof) para demonstrar alguns exemplos nas ultilizações.
 
