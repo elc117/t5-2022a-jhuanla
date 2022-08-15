@@ -14,6 +14,10 @@ Ao decorrer desta disciplina você com certeza teve contato com a biblioteca lib
 
 
 ## Começando
+Quando for criar o projeto na libGDX, lembre de ativar a opção de extensão Box2d. Será importaante para fazer os objetos que tem contato físico.
+![image](https://user-images.githubusercontent.com/85958775/184734605-86e121c7-240b-4c31-aa35-367c0cceb728.png)
+
+
 ### TiledMap
 Todo jogo você geralmente inicia tendo um mapa em mente, mas como fazer um mapa do zero? quais ferramentas ultilizar? Apresentarei uma ferramenta chamada [TiledMap](https://www.mapeditor.org/), onde irá facilitar a criação do seu jogo. Leve em consideração que haverá outras ferramentas que irão se comunicar com o [TiledMap](https://www.mapeditor.org/).
 
