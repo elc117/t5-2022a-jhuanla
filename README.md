@@ -45,7 +45,7 @@ Após isso, Escolha o seu conjunto de blocos(arquivo .png que você baixou anter
 Obs: atente-se de ter escolhido o conjunto inteiro e não apenas um bloco. Visto a opção de escolher apenas um bloco, note que podemos escolher diferentes blocos e fazer diferentes mapas.
 
 ![image](https://user-images.githubusercontent.com/85958775/184733463-8de5d1cc-48ec-4e32-8652-3cc1dc47acc7.png)
-Escolhendo um bloco do conjunto, você pode começar a desenhar. Faça o seu desenho.
+Escolhendo um bloco do conjunto, você pode começar a desenhar o mapa. Faça o seu mapa.
 
 
 
