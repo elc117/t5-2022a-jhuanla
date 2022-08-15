@@ -36,6 +36,13 @@ Após isso você vai se deparar com esta tela.
 
 Para prosseguirmos, usaremos tilesets para fazer o mapa, que seria mais ou menos como um conjunto de blocos prontos que você tem a total liberdade de "desenhar" o mapa do jeito que quiser. Escolha neste site o [tilesets](https://terminalroot.com.br/2022/04/baixe-de-graca-5-tilesets-para-seus-games.html) ou procure um de sua preferência.
 
+Clique em Novo Tileset
+
+![image](https://user-images.githubusercontent.com/85958775/184732851-98a4ad99-505f-4540-aa43-9a5daf20b35a.png)
+
+Após isso, Escolha o seu conjunto de blocos(arquivo .png que você baixou anteriormente), atente-se de ter escolhido o conjunto inteiro e não apenas um bloco. Visto a opção de escolher apenas um bloco, note que podemos escolher diferentes blocos e fazer diferentes mapas.
+
+
 
 
 
