@@ -8,3 +8,8 @@ Ao decorrer desta disciplina você com certeza teve contato com a biblioteca lib
 
 ## Pré-requisitos
 - [biblioteca libGDX](https://docs.google.com/presentation/d/18k3x_pKYT1mptiTYN74qq5MVoNm9mFv6uAnEbrjzBS4/edit?usp=sharing) (créditos à Profª Andrea Schwertner Charão)
+- Conhecimento básico na instalação
+- Conhecimento básico na ultilização da libGDX
+
+
+## Começando
