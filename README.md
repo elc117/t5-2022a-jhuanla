@@ -14,6 +14,7 @@ Ao decorrer desta disciplina você com certeza teve contato com a biblioteca lib
 
 
 ## Começando
+### TiledMap
 Todo jogo você geralmente inicia tendo um mapa em mente, mas como fazer um mapa do zero? quais ferramentas ultilizar? Apresentarei uma ferramenta chamada [TiledMap](https://www.mapeditor.org/), onde irá facilitar a criação do seu jogo. Leve em consideração que haverá outras ferramentas que irão se comunicar com o [TiledMap](https://www.mapeditor.org/).
 
 Após baixar e executar o [TiledMap](https://www.mapeditor.org/) você irá se deparar como esta imagem
@@ -42,6 +43,10 @@ Clique em Novo Tileset
 
 Após isso, Escolha o seu conjunto de blocos(arquivo .png que você baixou anteriormente).
 Obs: atente-se de ter escolhido o conjunto inteiro e não apenas um bloco. Visto a opção de escolher apenas um bloco, note que podemos escolher diferentes blocos e fazer diferentes mapas.
+
+![image](https://user-images.githubusercontent.com/85958775/184733463-8de5d1cc-48ec-4e32-8652-3cc1dc47acc7.png)
+Escolhendo um bloco do conjunto, você pode começar a desenhar. Faça o seu desenho.
+
 
 
 
