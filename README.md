@@ -30,6 +30,20 @@ Temos que declarar o objeto que vai acessar a música.
 
 Em seguida, o instânciamos e carregamos ele(não demos play ainda).
 
+![image](https://user-images.githubusercontent.com/85958775/184750235-ff057ef0-c88b-4c56-906e-61bb56ac2db7.png)
+
+OBS: Tudo que fizemos para a música até aqui foi na classe inicial do seu jogo, esta classe, no meu caso, é a que eu chamo a tela inicial.
+
+#### Play na música
+
+Para dar o play, faremos as modificações na classe onde queremos que a música toque. Nela declaramos o objeto da música.
+![image](https://user-images.githubusercontent.com/85958775/184753586-6ef94120-1e17-45b0-bcb7-f0ee2f27d926.png)
+
+e após isso o instânciamos usando o objeto manager instânciado anteriormente. Onde ele acessa os assets, no meu caso tem uma pasta audio/music e dentro dela tem o .mp3 com a música.
+![image](https://user-images.githubusercontent.com/85958775/184752574-c5db8455-ca0e-427a-ac3e-cbf795386762.png)
+
+
+
 ### TiledMap
 Todo jogo você geralmente inicia tendo um mapa em mente, mas como fazer um mapa do zero? quais ferramentas ultilizar? Apresentarei uma ferramenta chamada [TiledMap](https://www.mapeditor.org/), onde irá facilitar a criação do seu jogo. Leve em consideração que haverá outras ferramentas que irão se comunicar com o [TiledMap](https://www.mapeditor.org/).
 
