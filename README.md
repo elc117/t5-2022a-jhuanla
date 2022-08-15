@@ -40,7 +40,8 @@ Clique em Novo Tileset
 
 ![image](https://user-images.githubusercontent.com/85958775/184732851-98a4ad99-505f-4540-aa43-9a5daf20b35a.png)
 
-Após isso, Escolha o seu conjunto de blocos(arquivo .png que você baixou anteriormente), atente-se de ter escolhido o conjunto inteiro e não apenas um bloco. Visto a opção de escolher apenas um bloco, note que podemos escolher diferentes blocos e fazer diferentes mapas.
+Após isso, Escolha o seu conjunto de blocos(arquivo .png que você baixou anteriormente).
+Obs: atente-se de ter escolhido o conjunto inteiro e não apenas um bloco. Visto a opção de escolher apenas um bloco, note que podemos escolher diferentes blocos e fazer diferentes mapas.
 
 
 
