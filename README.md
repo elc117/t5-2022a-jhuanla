@@ -39,7 +39,7 @@ OBS: Tudo que fizemos para a música até aqui foi na classe inicial do seu jogo
 Para dar o play, faremos as modificações na classe onde queremos que a música toque. Nela declaramos o objeto da música.
 ![image](https://user-images.githubusercontent.com/85958775/184753586-6ef94120-1e17-45b0-bcb7-f0ee2f27d926.png)
 
-e após isso o instânciamos usando o objeto manager instânciado anteriormente. Onde ele acessa os assets, no meu caso tem uma pasta audio/music e dentro dela tem o .mp3 com a música.
+e após isso o instânciamos usando o objeto manager instânciado anteriormente. Onde ele acessa os assets, no meu caso tem uma pasta audio/music e dentro dela tem o .mp3 com a música, e demos o play.
 ![image](https://user-images.githubusercontent.com/85958775/184752574-c5db8455-ca0e-427a-ac3e-cbf795386762.png)
 
 
