@@ -14,7 +14,7 @@ Ao decorrer desta disciplina você com certeza teve contato com a biblioteca lib
 
 
 ## Começando
-Quando for criar o projeto na libGDX, lembre de ativar a opção de extensão Box2d. Será importaante para fazer os objetos que tem contato físico.
+Quando for criar o projeto na libGDX, lembre de ativar a opção de extensão Box2d. Será importante para fazer os objetos que tem contato físico.
 
 
 ![image](https://user-images.githubusercontent.com/85958775/184734605-86e121c7-240b-4c31-aa35-367c0cceb728.png)
