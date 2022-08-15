@@ -64,6 +64,7 @@ Começamos declarando as variáveis necessárias em sua classe Create(), ou se j
 ![image](https://user-images.githubusercontent.com/85958775/184735702-c701d7e8-c241-4847-b6bb-fa9c1176f1f8.png)
 
 Em seguida, instaciamos nossos objetos.
+map vai receber um mapLoader que estará pegando o nosso tmx.
 
 ![image](https://user-images.githubusercontent.com/85958775/184736205-314f4f3e-35ab-4535-bdb7-5f072761df71.png)
 
