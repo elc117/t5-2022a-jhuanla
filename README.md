@@ -59,6 +59,18 @@ Ao salvar o mapa, você terá um arquivo .tmx onde terá que colocar ele em asse
 
 ![image](https://user-images.githubusercontent.com/85958775/184735213-ac868cd5-96c4-4361-bd4f-12fa6788d36a.png)
 
+Começamos declarando as variáveis necessárias em sua classe Create(), ou se ja estiver mais avançado, será a sua classe de tela do jogo.
+
+![image](https://user-images.githubusercontent.com/85958775/184735702-c701d7e8-c241-4847-b6bb-fa9c1176f1f8.png)
+
+Em seguida, instaciamos nossos objetos.
+
+![image](https://user-images.githubusercontent.com/85958775/184736205-314f4f3e-35ab-4535-bdb7-5f072761df71.png)
+
+
+
+
+
 
 
 
