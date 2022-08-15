@@ -69,6 +69,11 @@ renderer será nosso objeto renderizador, ele irá renderizar nosso mapa na tela
 
 ![image](https://user-images.githubusercontent.com/85958775/184736205-314f4f3e-35ab-4535-bdb7-5f072761df71.png)
 
+E então renderizamos o renderer na classe render().
+
+![image](https://user-images.githubusercontent.com/85958775/184741531-d1b627f3-bc17-42a6-9bf1-16a6f9c0397e.png)
+
+
 
 
 
