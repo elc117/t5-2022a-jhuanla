@@ -30,6 +30,9 @@ Isométrico: Age of Empires, Diablo
 
 Para metódos de aprendizado, deixaremos tudo como padrao(menos a orientação que será de sua escolha)
 
+![image](https://user-images.githubusercontent.com/85958775/184731650-8639454f-ae97-408e-88b2-ed76b9592b5e.png)
+
+
 
 
 
