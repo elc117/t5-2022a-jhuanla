@@ -129,9 +129,10 @@ Importaremos algumas bibliotecas que serão usadas.
 
 ![image](https://user-images.githubusercontent.com/85958775/184762082-e5f34b0f-8fa7-471f-8cd6-1961e8608038.png)
 
+Declaramos os objetos necessários, no nosso exemplo, tinhamos animações de ficar parado, morrer, andar e atacar.
 
+![image](https://user-images.githubusercontent.com/85958775/184765056-014cb679-a56a-4cd5-9856-94ba2ddfb7cb.png)
 
-![image](https://user-images.githubusercontent.com/85958775/184757461-7c182567-42ea-4c41-bcf3-d2d88e7e8c17.png)
 
 
 
