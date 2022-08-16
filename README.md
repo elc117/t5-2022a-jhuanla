@@ -135,6 +135,7 @@ Em Animation<TextureRegion> são realmente animações, que tem movimento, ja em
 ![image](https://user-images.githubusercontent.com/85958775/184765056-014cb679-a56a-4cd5-9856-94ba2ddfb7cb.png)
 
 Na classe do player, demos um super passando uma região do .pack
+Obs: Se você abrir o .pack no vscode, vai ver que cada .png tem um nome, no nosso caso um seria o png do personagem parado(front).
 
 ![image](https://user-images.githubusercontent.com/85958775/184767196-1053d99f-d041-4ce6-bab8-d00841dcd772.png)
 
