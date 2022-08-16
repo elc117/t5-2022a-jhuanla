@@ -107,6 +107,11 @@ Após "compilar" várias imagens, teremos dois arquivos importantes, um .pack e 
 
 ![poswrrior](https://user-images.githubusercontent.com/85958775/184758503-c9637f56-81ca-4dae-b630-76c753add334.png)
 
+na classe de tela do jogo, importaremos uma biblioteca chamada TextureAtlas. Ela pegará "regiões" do arquivo .pack que foi criado. Cada png usado no texturepacker para criar a compilação é chamado no .pack de região.
+
+![image](https://user-images.githubusercontent.com/85958775/184759072-ab4232f8-04a3-4b57-901a-4b8c89202331.png)
+
+
 
 ![image](https://user-images.githubusercontent.com/85958775/184757461-7c182567-42ea-4c41-bcf3-d2d88e7e8c17.png)
 
