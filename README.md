@@ -119,6 +119,14 @@ Após isso instânciamos o objeto necessário.
 
 ![image](https://user-images.githubusercontent.com/85958775/184759567-1849188d-75c1-4bee-98d7-6d5687d8b4f2.png)
 
+e também criamos uma classe para retornar o atlas que será usado futuramente.
+
+OBS: Tudo que fizemos para a animação até aqui foi na classe da tela do jogo.
+
+Agora será usado em uma classe que faremos o nosso player e também a animação.
+
+![image](https://user-images.githubusercontent.com/85958775/184762082-e5f34b0f-8fa7-471f-8cd6-1961e8608038.png)
+
 
 
 
