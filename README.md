@@ -139,7 +139,7 @@ Obs: Se você abrir o .pack no vscode, vai ver que cada .png tem um nome, no nos
 
 ![image](https://user-images.githubusercontent.com/85958775/184767196-1053d99f-d041-4ce6-bab8-d00841dcd772.png)
   
-Instânciamos um array de frames, ele receberá pequenos pedaços de uma imagem(texture region). No exemplo ele tem 58 de altura e largura, e a cada iteração do for ele pula 65 bite. e o objeto de andar recebe uma animation com a quantidade de frame e os frames do array.
+Instânciamos um array de frames, ele receberá pequenos pedaços de uma imagem(texture region). No exemplo ele tem 58 de altura e largura, e a cada iteração do for ele pula 65 bite. e o objeto de andar recebe uma animation com a quantidade de frame e os frames do array. No nosso caso o i começa em 2 pois de 9 "bonecos" eu queria começar no segundo
   
 ![image](https://user-images.githubusercontent.com/85958775/184772113-9f60633b-99cb-4fe5-ac4a-c90a975270f0.png)
 
