@@ -191,6 +191,18 @@ para renderizar as linhas de contato e o player, precisamos setar alguns método
 ![image](https://user-images.githubusercontent.com/85958775/184780685-51997701-d361-4aa4-971c-3a4942c72f0e.png)
 
 
+Para fazer tudo se interagir, usaremos várias bibliotecas.
+  
+![image](https://user-images.githubusercontent.com/85958775/184781770-c52f9465-5949-4d9e-bee4-7302261beaa2.png)
+
+  
+Declaremos os objetos
+  
+![image](https://user-images.githubusercontent.com/85958775/184781846-fe7d9b0b-ab57-4668-8a55-6460e242fe90.png)
+
+Os objetos a seguir estão todos ao corpo do personagem, fazendo o corpo se comunicar com o mundo criado e suas linhas de contato.
+  
+![image](https://user-images.githubusercontent.com/85958775/184782189-38e625d1-cf40-4091-858e-d8ddc9d4884b.png)
 
 
 
