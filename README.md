@@ -100,6 +100,20 @@ E então renderizamos o renderer na classe render().
 ![image](https://user-images.githubusercontent.com/85958775/184741531-d1b627f3-bc17-42a6-9bf1-16a6f9c0397e.png)
 
 
+### Animações
+
+Existem vários métodos de criar uma animação, o modo que será apresentado a seguir usa de algumas bibliotecas unificadas. Ultilizaremos também uma ferramenta chamada [texturepacker](https://code.google.com/archive/p/libgdx-texturepacker-gui/downloads) ela será necessária para fazer arquivo com várias imagens, facilitando o uso de imagens.
+Após "compilar" várias imagens, teremos dois arquivos importantes, um .pack e um .png que será mais ou menos assim.
+
+![poswrrior](https://user-images.githubusercontent.com/85958775/184758503-c9637f56-81ca-4dae-b630-76c753add334.png)
+
+
+![image](https://user-images.githubusercontent.com/85958775/184757461-7c182567-42ea-4c41-bcf3-d2d88e7e8c17.png)
+
+
+
+
+
 
 
 
