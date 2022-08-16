@@ -85,7 +85,7 @@ Ao salvar o mapa, você terá um arquivo .tmx onde terá que colocar ele em asse
 
 ![image](https://user-images.githubusercontent.com/85958775/184735213-ac868cd5-96c4-4361-bd4f-12fa6788d36a.png)
 
-Começamos declarando as variáveis necessárias em sua classe Create(), ou se ja estiver mais avançado, será a sua classe de tela do jogo.
+Começamos declarando os objetos necessárias em sua classe Create(), ou se ja estiver mais avançado, será a sua classe de tela do jogo.
 
 ![image](https://user-images.githubusercontent.com/85958775/184735702-c701d7e8-c241-4847-b6bb-fa9c1176f1f8.png)
 
@@ -110,6 +110,15 @@ Após "compilar" várias imagens, teremos dois arquivos importantes, um .pack e 
 na classe de tela do jogo, importaremos uma biblioteca chamada TextureAtlas. Ela pegará "regiões" do arquivo .pack que foi criado. Cada png usado no texturepacker para criar a compilação é chamado no .pack de região.
 
 ![image](https://user-images.githubusercontent.com/85958775/184759072-ab4232f8-04a3-4b57-901a-4b8c89202331.png)
+
+Declaremos um objeto para pegar o .pack
+
+![image](https://user-images.githubusercontent.com/85958775/184759357-3a3a48a1-7245-46a6-9e66-9ed19b7ddab6.png)
+
+Após isso instânciamos o objeto necessário.
+
+![image](https://user-images.githubusercontent.com/85958775/184759567-1849188d-75c1-4bee-98d7-6d5687d8b4f2.png)
+
 
 
 
