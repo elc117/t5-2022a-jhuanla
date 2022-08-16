@@ -166,6 +166,12 @@ Declaramos objetos do mundo, e alguns objetos necessários.
 
 ![image](https://user-images.githubusercontent.com/85958775/184779224-22b477e7-d581-41e4-852d-9f953f3fc442.png)
 
+IMPORTANTE: para criar o mundo, faremos uma classe onde ela pega as camadas feitas no tiledmap e criará um retângulo para cada objeto identificado pelas camadas, vemos que no nosso exemplo há duas camadas(4 e 5) onde uma significa os objetos flutuantes e outra o chão.
+  
+![image](https://user-images.githubusercontent.com/85958775/184781116-143dca9f-074e-4538-8b2c-b2512f04d167.png)
+
+  
+
 Instânciamos o mundo que receberá a gravidade do mesmo, as linhas do b2box(onde cria contato fisico nos blocos),  criamos o mundo no mapa(o mundo é o contato, e o mapa é o tmx, o mundo sobrepõe o mapa com linhas de contato) e também criamos o player no mundo.
  
 ![image](https://user-images.githubusercontent.com/85958775/184779758-7b55d913-4035-431b-8cca-0a2422093304.png)
@@ -179,6 +185,11 @@ Em seguida, criaremos uma classe onde ela irá atualizar o mundo de acordo com o
 e na função render chamamos o update para sempre atualizar o mundo
   
 ![image](https://user-images.githubusercontent.com/85958775/184780264-8785c864-dad0-4d28-b300-a527a90ec149.png)
+  
+para renderizar as linhas de contato e o player, precisamos setar alguns métodos para o jogo.
+  
+![image](https://user-images.githubusercontent.com/85958775/184780685-51997701-d361-4aa4-971c-3a4942c72f0e.png)
+
 
 
 
