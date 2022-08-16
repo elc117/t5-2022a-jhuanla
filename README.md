@@ -156,6 +156,31 @@ Em seguida setamos o tamanho do persongem no mapa, vai de acordo do que fica mel
 
 
 ### Box2D
+Esta biblioteca é extremamente poderosa, com ela podemos fazer as físicas, o mundo, o player e suas conexões(contato físico e etc.)
+  
+Importaremos as seguintes bibliotecas
+
+![image](https://user-images.githubusercontent.com/85958775/184779115-7a275387-63c2-4c56-b3a6-53a64b6ff2f4.png)
+
+Declaramos objetos do mundo, e alguns objetos necessários.
+
+![image](https://user-images.githubusercontent.com/85958775/184779224-22b477e7-d581-41e4-852d-9f953f3fc442.png)
+
+Instânciamos o mundo que receberá a gravidade do mesmo, as linhas do b2box(onde cria contato fisico nos blocos),  criamos o mundo no mapa(o mundo é o contato, e o mapa é o tmx, o mundo sobrepõe o mapa com linhas de contato) e também criamos o player no mundo.
+ 
+![image](https://user-images.githubusercontent.com/85958775/184779758-7b55d913-4035-431b-8cca-0a2422093304.png)
+
+Em seguida, criaremos uma classe onde ela irá atualizar o mundo de acordo com os frames(no exemplo 60 frames por segundo) e a posição do personagem. A câmera no nosso exemplo segue apenas a posição x do personagem, ou seja, segue na horizontal. Mas se colocarmos o cam.position.y = player.b2body.getPosition().y;	ele também segue o y.
+ 
+
+![image](https://user-images.githubusercontent.com/85958775/184780326-11d0fd14-d433-45c9-8b33-5b9fe210e17a.png)
+
+  
+e na função render chamamos o update para sempre atualizar o mundo
+  
+![image](https://user-images.githubusercontent.com/85958775/184780264-8785c864-dad0-4d28-b300-a527a90ec149.png)
+
+
 
 
 
