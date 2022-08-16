@@ -130,9 +130,13 @@ Importaremos algumas bibliotecas que serão usadas.
 ![image](https://user-images.githubusercontent.com/85958775/184762082-e5f34b0f-8fa7-471f-8cd6-1961e8608038.png)
 
 Declaramos os objetos necessários, no nosso exemplo, tinhamos animações de ficar parado, morrer, andar e atacar.
-em Animation <TextureRegion> são realmente animações, que tem movimento, ja em TextureRegion é animação estática, sem movimento.
+Em Animation<TextureRegion> são realmente animações, que tem movimento, ja em TextureRegion é animação estática, sem movimento.
 
 ![image](https://user-images.githubusercontent.com/85958775/184765056-014cb679-a56a-4cd5-9856-94ba2ddfb7cb.png)
+
+Na classe do player, demos um super passando uma região do .pack
+
+![image](https://user-images.githubusercontent.com/85958775/184767196-1053d99f-d041-4ce6-bab8-d00841dcd772.png)
 
 
 
