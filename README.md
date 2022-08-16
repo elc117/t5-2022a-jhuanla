@@ -125,8 +125,9 @@ OBS: Tudo que fizemos para a animação até aqui foi na classe da tela do jogo.
 
 Agora será usado em uma classe que faremos o nosso player e também a animação.
 
-![image](https://user-images.githubusercontent.com/85958775/184762082-e5f34b0f-8fa7-471f-8cd6-1961e8608038.png)
+Importaremos algumas bibliotecas que serão usadas.
 
+![image](https://user-images.githubusercontent.com/85958775/184762082-e5f34b0f-8fa7-471f-8cd6-1961e8608038.png)
 
 
 
