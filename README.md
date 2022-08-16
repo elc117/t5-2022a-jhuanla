@@ -200,7 +200,7 @@ Declaremos os objetos
   
 ![image](https://user-images.githubusercontent.com/85958775/184781846-fe7d9b0b-ab57-4668-8a55-6460e242fe90.png)
 
-Os objetos a seguir estão todos ao corpo do personagem, fazendo o corpo se comunicar com o mundo criado e suas linhas de contato.
+Os objetos a seguir estão todos ligados ao corpo do personagem, fazendo o corpo se comunicar com o mundo criado e suas linhas de contato.
   
 ![image](https://user-images.githubusercontent.com/85958775/184782189-38e625d1-cf40-4091-858e-d8ddc9d4884b.png)
 
