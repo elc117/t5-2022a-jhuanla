@@ -138,6 +138,11 @@ Na classe do player, demos um super passando uma região do .pack
 Obs: Se você abrir o .pack no vscode, vai ver que cada .png tem um nome, no nosso caso um seria o png do personagem parado(front).
 
 ![image](https://user-images.githubusercontent.com/85958775/184767196-1053d99f-d041-4ce6-bab8-d00841dcd772.png)
+  
+Instânciamos um array de frames, ele receberá pequenos pedaços de uma imagem(texture region). No exemplo ele tem 58 de altura e largura, e a cada iteração do for ele pula 65 bite. e o objeto de andar recebe uma animation com a quantidade de frame e os frames do array.
+  
+![image](https://user-images.githubusercontent.com/85958775/184772113-9f60633b-99cb-4fe5-ac4a-c90a975270f0.png)
+
 
 
 
