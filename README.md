@@ -142,6 +142,12 @@ Obs: Se você abrir o .pack no vscode, vai ver que cada .png tem um nome, no nos
 Instânciamos um array de frames, ele receberá pequenos pedaços de uma imagem(texture region). No exemplo ele tem 58 de altura e largura, e a cada iteração do for ele pula 65 bite. e o objeto de andar recebe uma animation com a quantidade de frame e os frames do array. No nosso caso o i começa em 2 pois de 9 "bonecos" eu queria começar no segundo
   
 ![image](https://user-images.githubusercontent.com/85958775/184772113-9f60633b-99cb-4fe5-ac4a-c90a975270f0.png)
+ 
+Os códigos anteriores foram feitos para uma animação dinâmica.
+Para animações estáticas pegamos a posição do x e do y na matriz do png(eu fui testando até achar).
+  
+![image](https://user-images.githubusercontent.com/85958775/184773953-be90b113-13ec-48a2-bdca-3817d9539f9c.png)
+
 
 
 
