@@ -149,6 +149,11 @@ Para animações estáticas pegamos a posição do x e do y na matriz do png(eu 
 ![image](https://user-images.githubusercontent.com/85958775/184773953-be90b113-13ec-48a2-bdca-3817d9539f9c.png)
 
 
+Em seguida setamos o tamanho do persongem no mapa, vai de acordo do que fica melhor em seu jogo, teste para saber, e sua posição no mapa. E setamos o frame inicial, no nosso caso ele começa com o personagem parado.
+  
+![image](https://user-images.githubusercontent.com/85958775/184775967-3d7cf142-6c2c-4f81-a2a1-1e7d553c9e3b.png)
+
+
 
 
 
